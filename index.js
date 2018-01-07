@@ -1,5 +1,5 @@
-var name = "Susan"
+var name = "Joe"
 var height = 74
-var message = ` is ${Height} inches tall`
+var message = `${name} is ${height} inches tall`
 
-module.exports = {name, height, lessage}
+module.export = {name, height, message}
